@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust involving undefined behavior when modifying a vector through a raw pointer after a potential reallocation. The `bug.rs` file contains the erroneous code, and `bugSolution.rs` offers a safe alternative.
